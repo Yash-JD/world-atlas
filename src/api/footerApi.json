@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Surat, Gujarat"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "+91 9099100605"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "yjdobariya0@gmail.com"
+  }
+]
